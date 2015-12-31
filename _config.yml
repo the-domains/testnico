@@ -1,6 +1,6 @@
 name: testnico
 favicon: null
-layout_spectrum: 0.1989843084011227
+layout_spectrum: 0
 typography_spectrum: 0.002339139813557267
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.7155334027484059
   lightness: 0.887559687718749
   saturation: 0.5465292218141258
-  rhythmicContrast: 0.8814016950782388
+  rhythmicContrast: 0.75
 purpose: []
