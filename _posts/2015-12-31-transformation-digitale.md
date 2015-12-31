@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-31T19:17:27.679Z'
-dateModified: '2015-12-31T19:17:01.472Z'
+datePublished: '2015-12-31T19:19:19.013Z'
+dateModified: '2015-12-31T19:19:06.364Z'
 title: Transformation digitale
 author: []
 authors: []
